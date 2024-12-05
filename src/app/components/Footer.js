@@ -100,7 +100,7 @@ export default function Footer() {
                 <li>YiKe Technology Co., Ltd.</li>
                 <li>No. 80 Shilong Section,</li>
                 <li>Dongjiang Avenue,</li>
-                <li>Shilong Town,</li>
+                <li>Shilong Town, Dongguan,</li>
                 <li>Guangdong Province, China</li>
                 <li></li>
                 <li className="mt-4"></li>

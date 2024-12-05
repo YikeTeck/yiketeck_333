@@ -62,7 +62,7 @@ export default function Contact() {
                       YiKe Technology Co., Ltd.<br />
                       No. 80 Shilong Section,<br />
                       Dongjiang Avenue,<br />
-                      Shilong Town,<br />
+                      Shilong Town, Dongguan,<br />
                       Guangdong Province, China
                     </p>
                     <p className="text-lg text-[#374151] mt-4">
