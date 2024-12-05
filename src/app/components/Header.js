@@ -65,7 +65,7 @@ export default function Header() {
     return 'text-[#374151] hover:text-[#C4A661]'
   }
 
-  const isSolutionsActive = pathname === `/${lang}` && document.getElementById('solutions-section')?.getBoundingClientRect().top === 0
+  const isSolutionsActive = pathname === `/${lang}` && typeof window !== 'undefined' && document.getElementById('solutions-section')?.getBoundingClientRect().top === 0
 
   return (
     <header className="fixed w-full bg-white shadow-sm z-[100]">
